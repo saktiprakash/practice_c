@@ -246,10 +246,10 @@ int main()
     // else{
     //     printf("enter  a valid operator");
     // }
+    printf("hello world");
     
     
-    
-    // return 0;
+    return 0;
 
 
 
